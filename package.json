@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TechnologicalJerry/swagger-express-graphql-node-mongo#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "express": "^4.21.1",
     "graphql": "^16.9.0",
     "mongoose": "^8.8.2"
